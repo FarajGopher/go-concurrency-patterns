@@ -12,4 +12,3 @@ It allows consumers to process values as they are generated, without needing the
 - **Infinite Sequences** → supports generating infinite sequences without exhausting memory.  
 - **Backpressure Handling** → if the consumer is slow, the generator naturally slows down due to channel blocking, preventing overload.  
 
----
